@@ -1,3 +1,18 @@
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/OmarNasserr/Task1-Flask.git
+   
+2. Install Requirements:
+   ```bash
+   cd Task1-Flask
+   pip install -r requirements.txt
+3. Run Server:
+   ```bash
+   python app.py
+
 ## API Endpoints
 
 ### User Endpoints
